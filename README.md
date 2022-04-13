@@ -6,7 +6,7 @@ Commands need to be run with admin privileges or password.
 
 Resolution for each vDisplay needs to be set manually.
 
-For KH usage, 720p is recomended.
+For KH usage, 1280x720 is recomended.
 
 This graphical user interface runs the CMD commands for the amyuni drivers.
 
